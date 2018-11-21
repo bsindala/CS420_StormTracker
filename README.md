@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Storm Track
 AWMarkley's Project for UAB's CS420: Software Engineering course 
 
@@ -14,3 +15,7 @@ External libraries used are: <br>
 <a href="http://opencsv.sourceforge.net">openCSV</a><br>
 
 
+=======
+# CS420_StormTracker
+Storm Tracker in Java
+>>>>>>> 84d21480213b64b5ce8024b57a7437dcf90302ee
