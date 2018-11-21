@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="fxgraphics2d">
+    <CLASSES>
+      <root url="file:///Library/Java/Extensions/fxgraphics2d" />
+      <root url="file:///Library/Java/Extensions/geotools-16.0" />
+      <root url="file:///Library/Java/Extensions/openCSV" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file:///Library/Java/Extensions/geotools-16.0" />
+    </SOURCES>
+    <jarDirectory url="file:///Library/Java/Extensions/fxgraphics2d" recursive="false" />
+    <jarDirectory url="file:///Library/Java/Extensions/geotools-16.0" recursive="false" />
+    <jarDirectory url="file:///Library/Java/Extensions/openCSV" recursive="false" />
+    <jarDirectory url="file:///Library/Java/Extensions/geotools-16.0" recursive="false" type="SOURCES" />
+  </library>
+</component>
