@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # Storm Track
-AWMarkley's Project for UAB's CS420: Software Engineering course 
+Project for UAB's CS420: Software Engineering course worked in collaboration with AWMarkley, MattSch1 and Trent Knighton
 
 This software product allows a user to render the tracks of storms in a band of the Indian and Pacific oceans from 1945
 and allows a heat map to be produced of these storms across a selected time period.
